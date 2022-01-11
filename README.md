@@ -1,2 +1,3 @@
-# Jeu-de-la-vie---Automate-Cellulaire
+# Automate cellulaire - Jeu de la vie
+Exemple avec un motif "canon"
 ![caption](./pattern.gif)
